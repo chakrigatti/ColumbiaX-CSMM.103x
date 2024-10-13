@@ -1,0 +1,10 @@
+# Common Folders
+install/
+build/
+devel/
+logs/
+log/
+bin/
+lib/
+__pycache__/
+.vscode/
